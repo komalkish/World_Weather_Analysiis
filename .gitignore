@@ -1,4 +1,12 @@
-# Byte-compiled / optimized / DLL files
+#Adding Config.py file
+config.py
+
+#adding additional files
+Random_numbers.ipynb 
+.DS_Store
+
+
+
 __pycache__/
 *.py[cod]
 *$py.class
